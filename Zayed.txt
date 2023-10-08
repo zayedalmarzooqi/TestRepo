@@ -1,5 +1,6 @@
-My name is Zayed Almarzooqi, my new book will be out November 1st.
-This is the Change here
+My name is Zayed Almarzooqi, my new book will be out November 1st 2023
+This is the Change herie
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 1- 1st change adding by Khuloud alketbi and More changes will be added 
@@ -9,4 +10,6 @@ Adding a new line here then it will be changed, for Lab1.1 Only
 >>>>>>> 679fbe70b5304928abde7e85e3ea13b3709db938
 =======
 New line added 
+>>>>>>> userA
+=======
 >>>>>>> userA
