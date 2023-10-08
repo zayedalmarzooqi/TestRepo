@@ -1,4 +1,13 @@
 My name is Zayed Almarzooqi, my new book will be out November 1st.
 This is the Change here
+<<<<<<< HEAD
 1- 1st change adding by zayed almarzooqi
 Adding a new line here then it will be changed, for Lab1.
+=======
+<<<<<<< HEAD
+1- 1st change adding by Khuloud alketbi and More changes will be added soon
+=======
+1- 1st change adding by Khuloud alketbi now type
+Adding a new line here then it will be changed, for Lab1.1 Only 
+>>>>>>> 679fbe70b5304928abde7e85e3ea13b3709db938
+>>>>>>> 11bd879ddf5b569365eb57cb229ea6e1f3a7cd81
