@@ -5,7 +5,7 @@ This is the Change here
 Adding a new line here then it will be changed, for Lab1.
 =======
 <<<<<<< HEAD
-1- 1st change adding by Khuloud alketbi and More changes will be added soon
+1- 1st change adding by Khuloud alketbi and More changes will be added later
 =======
 1- 1st change adding by Khuloud alketbi now type
 Adding a new line here then it will be changed, for Lab1.1 Only 
